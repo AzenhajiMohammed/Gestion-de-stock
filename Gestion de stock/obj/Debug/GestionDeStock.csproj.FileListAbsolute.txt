@@ -1,0 +1,14 @@
+C:\Users\simoh\source\repos\Gestion de stock\Gestion de stock\obj\Debug\GestionDeStock.csproj.AssemblyReference.cache
+C:\Users\simoh\source\repos\Gestion de stock\Gestion de stock\obj\Debug\Gestion_de_stock.PL.FRM_Ajouter_Modifier_Client.resources
+C:\Users\simoh\source\repos\Gestion de stock\Gestion de stock\obj\Debug\Gestion_de_stock.PL.FRM_Ajouter_Modifier_Produit.resources
+C:\Users\simoh\source\repos\Gestion de stock\Gestion de stock\obj\Debug\Gestion_de_stock.PL.frm_connexion.resources
+C:\Users\simoh\source\repos\Gestion de stock\Gestion de stock\obj\Debug\Gestion_de_stock.PL.FRM_Menu.resources
+C:\Users\simoh\source\repos\Gestion de stock\Gestion de stock\obj\Debug\Gestion_de_stock.PL.FRM_Photo_Produit.resources
+C:\Users\simoh\source\repos\Gestion de stock\Gestion de stock\obj\Debug\Gestion_de_stock.PL.User_Liste_Client.resources
+C:\Users\simoh\source\repos\Gestion de stock\Gestion de stock\obj\Debug\Gestion_de_stock.PL.User_List_Produit.resources
+C:\Users\simoh\source\repos\Gestion de stock\Gestion de stock\obj\Debug\Gestion_de_stock.Properties.Resources.resources
+C:\Users\simoh\source\repos\Gestion de stock\Gestion de stock\obj\Debug\Gestion_de_stock.RAP.FRM_RAPPORT.resources
+C:\Users\simoh\source\repos\Gestion de stock\Gestion de stock\obj\Debug\GestionDeStock.csproj.GenerateResource.cache
+C:\Users\simoh\source\repos\Gestion de stock\Gestion de stock\obj\Debug\GestionDeStock.csproj.CoreCompileInputs.cache
+C:\Users\simoh\source\repos\Gestion de stock\Gestion de stock\obj\Debug\Gestion de stock.exe
+C:\Users\simoh\source\repos\Gestion de stock\Gestion de stock\obj\Debug\Gestion de stock.pdb
